@@ -1,4 +1,4 @@
-# Learning-Journal
+Learning-Journal
 
  Welcome to my Deep Learning blogs & git repo.. This is dedicated to those who are starting a learning journey on Computer Vision and Deep Learning.
 
