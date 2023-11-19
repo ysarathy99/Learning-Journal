@@ -1,1 +1,3 @@
-Set of resources will help you get started on creating Images  from text and then customizing them using Style Transfer
+Set of resources will help you get started on creating Images from text and then customizing them using Style Transfer
+
+Also added Word2Vec models (will be moved to a separate section later on Voice & AWS Polly)
