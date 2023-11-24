@@ -10,8 +10,8 @@ How to Deploy Streamlit app on EC2 instance.
 -  git clone "Your-repository"
 -  sudo apt install python3-pip
 -  pip3 install -r dependencies.txt
--  #Temporary running
+-  #use the commond below without nohup if u want to test it
 -  python3 -m streamlit run app.py
--  #Permanent running
+-  #use no hup to keep the app server running
 -  nohup python3 -m streamlit run app.py
 -  Note: Streamlit runs on this port: 8501
