@@ -9,7 +9,8 @@ How to Deploy Streamlit app on EC2 instance.
   -sudo apt install python3-pip
 -  git clone "Your-repository"
 -  sudo apt install python3-pip
--  pip3 install -r dependencies.txt
+-  pip install boto3
+-  pip install -r dependencies.txt
 -  #use the commond below without nohup if u want to test it
 -  python3 -m streamlit run app.py
 -  #use no hup to keep the app server running
