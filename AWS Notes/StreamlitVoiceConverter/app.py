@@ -12,8 +12,8 @@ boto_sess = Session(profile_name='user with permissions to runtime')
 st.header('Welcome to  Audio Converter streamlit app!')
 
 sagemaker_runtime = boto_sess.client('sagemaker-runtime',region_name='choose-region')
-
-endpoint_name='your_end_point'
+# prior to this step, you should have deployed your model in Sagenaker, noted the endpoint 
+endpoint_name='your_end_point' #e.g. will be a hugging-face-whisper--xxx series, depending on your runtime GPU choices
 
 def generate_text(audio):
     payload=audio
