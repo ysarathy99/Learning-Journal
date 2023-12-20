@@ -1,4 +1,4 @@
- Welcome to my Deep Learning blogs & git repo.. This is dedicated to those who are starting a learning journey on Computer Vision and Deep Learning.
+ Welcome to our Deep Learning blogs & git repo.. This is dedicated to those who are starting a learning journey on Computer Vision and Deep Learning.
 
  While Images, Art, Animation are the focus here, we will digress periodically to look at other data sets, especially LLMs.
  
